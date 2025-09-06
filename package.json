@@ -1,0 +1,19 @@
+{
+  "name": "com.fallingsnowinteractive.localization",
+  "version": "0.0.1",
+  "displayName": "FSI Localization",
+  "description": "Package for localization.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Currency"
+  ],
+  "author": {
+    "name": "Kira Dinan",
+    "email": "kiradinan.dev@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.localization": "1.5.4"
+  },
+  "hideInEditor": false
+}
